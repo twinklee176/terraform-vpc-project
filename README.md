@@ -32,7 +32,7 @@ The architecture ensures:
 
 ---
 
-##  Project Structure
+##  Repository Structure
 
 ```
 terraform-vpc-project/
